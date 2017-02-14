@@ -1,0 +1,14 @@
+{
+  "name": "chatbots",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "core-js": "^2.4.0",
+    "express": "4.13.4",
+    "mongoose": "4.5.1",
+    "reflect-metadata": "^0.1.3",
+    "request": "2.72.0",
+    "node-salesforce": "0.8.0"
+  }
+}
