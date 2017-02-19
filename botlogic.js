@@ -3,7 +3,7 @@
 // #################################################################
 var request		 			= require( 'request' );
 var eol		 				= require( 'os' ).EOL;
-var telegramSendMessageAPI	= 'https://api.telegram.org/bot___TOKEN___/sendMessage';
+var telegramSendMessageAPI	= 'https://api.telegram.org/bot339569893:AAHEVpgQOhtA9xvdzZ_LJpsf01e5pOYLey8/sendMessage';
 
 
 
